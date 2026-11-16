@@ -1,10 +1,18 @@
 # LigSplat 0.2.0-preview · 软件说明（中英文对照）
 # LigSplat 0.2.0-preview · Software Description (Bilingual)
 
+> ## 立即下载 / Download
+>
+> **[下载 LigSplat 最新版 · Windows x64 安装包](https://github.com/Lig10215/LigSplat/releases/latest)** — 当前 `v0.2.0-preview` · 216 MiB · Windows 10/11 64 位
+>
+> **[Download LigSplat (latest) · Windows x64 installer](https://github.com/Lig10215/LigSplat/releases/latest)** — current `v0.2.0-preview` · 216 MiB · Windows 10/11 64-bit
+>
+> 普通用户请始终使用上面的「最新版」链接；历史版本见 [Releases](https://github.com/Lig10215/LigSplat/releases)，文件哈希与校验方法见第 3 节。
+> Always use the "latest" link above; older builds are on [Releases](https://github.com/Lig10215/LigSplat/releases), and hashes plus verification steps are in §3.
+
 > 版本 / Version：`0.2.0-preview`（2026-11-17）
 > 作者 / Author：Lig10215
 > 项目地址 / Repository：https://github.com/Lig10215/LigSplat
-> 下载 / Download：https://github.com/Lig10215/LigSplat/releases/latest
 > 本文逐节「中文 → English」对照 / Each section is given in Chinese, then in English.
 
 ---
