@@ -3,12 +3,19 @@
 
 > ## 立即下载 / Download
 >
-> **[下载 LigSplat 最新版 · Windows x64 安装包](https://github.com/Lig10215/LigSplat/releases/latest)** — 当前 `v0.2.0-preview` · 216 MiB · Windows 10/11 64 位
+> ### [点击直接下载 LigSplat 安装包（.exe）](https://github.com/Lig10215/LigSplat/releases/latest/download/LigSplat-Setup-0.2.0-win64.exe)
 >
-> **[Download LigSplat (latest) · Windows x64 installer](https://github.com/Lig10215/LigSplat/releases/latest)** — current `v0.2.0-preview` · 216 MiB · Windows 10/11 64-bit
+> 当前 `v0.2.0-preview` · 216 MiB · Windows 10/11 64 位。**点击上方链接即开始下载，无需再进入 Releases 页面。**
 >
-> 普通用户请始终使用上面的「最新版」链接；历史版本见 [Releases](https://github.com/Lig10215/LigSplat/releases)，文件哈希与校验方法见第 3 节。
-> Always use the "latest" link above; older builds are on [Releases](https://github.com/Lig10215/LigSplat/releases), and hashes plus verification steps are in §3.
+> ### [Click to download the LigSplat installer (.exe)](https://github.com/Lig10215/LigSplat/releases/latest/download/LigSplat-Setup-0.2.0-win64.exe)
+>
+> Current `v0.2.0-preview` · 216 MiB · Windows 10/11 64-bit. **The link above downloads the installer directly — no Releases page in between.**
+>
+> 其他文件：[完整对应源码 ZIP](https://github.com/Lig10215/LigSplat/releases/latest/download/LigSplat-0.2.0-source.zip) · [SHA256 校验清单](https://github.com/Lig10215/LigSplat/releases/latest/download/SHA256SUMS-0.2.0.txt) · [最新版 Release 页面](https://github.com/Lig10215/LigSplat/releases/latest)（含全部文件与历史版本）
+> Other files: [corresponding source ZIP](https://github.com/Lig10215/LigSplat/releases/latest/download/LigSplat-0.2.0-source.zip) · [SHA-256 manifest](https://github.com/Lig10215/LigSplat/releases/latest/download/SHA256SUMS-0.2.0.txt) · [latest Release page](https://github.com/Lig10215/LigSplat/releases/latest) (all files and older builds)
+>
+> 说明：直链固定指向「最新版中同名附件」，不写死版本 tag；若将来安装包改名，请从上面的 Release 页面下载。文件哈希与校验方法见第 3 节。
+> Note: the direct link always resolves to the same-named asset in the **latest** Release, without pinning a tag. If the installer is ever renamed, use the Release page above. Hashes and verification steps are in §3.
 
 > 版本 / Version：`0.2.0-preview`（2026-11-17）
 > 作者 / Author：Lig10215
@@ -45,17 +52,17 @@ A separate repository by the same author, [gaussian-splat-fusion](https://github
 
 **中文**
 
-请到 [Releases 最新版](https://github.com/Lig10215/LigSplat/releases/latest) 下载。v0.2.0 提供三个文件：Windows 安装包、完整对应源码包、校验清单。下载后用 `certutil -hashfile <文件名> SHA256` 核对哈希，与 `SHA256SUMS-0.2.0.txt` 比对。
+下表中的**文件名都是直接下载链接，点击即可开始下载**（无需进入 Releases 页面）。v0.2.0 提供三个文件：Windows 安装包、完整对应源码包、校验清单。全部文件与历史版本见 [Releases 最新版](https://github.com/Lig10215/LigSplat/releases/latest)。下载后用 `certutil -hashfile <文件名> SHA256` 核对哈希，与 `SHA256SUMS-0.2.0.txt` 比对。
 
 **English**
 
-Download from the [latest Release](https://github.com/Lig10215/LigSplat/releases/latest). v0.2.0 ships three files: the Windows installer, the complete corresponding-source archive, and a checksum manifest. Verify with `certutil -hashfile <filename> SHA256` and compare against `SHA256SUMS-0.2.0.txt`.
+**Every filename below is a direct download link — one click starts the download**, with no Releases page in between. v0.2.0 ships three files: the Windows installer, the complete corresponding-source archive, and a checksum manifest. All files and older builds are on the [latest Release](https://github.com/Lig10215/LigSplat/releases/latest). Verify with `certutil -hashfile <filename> SHA256` and compare against `SHA256SUMS-0.2.0.txt`.
 
-| 文件 / File | 大小 / Size | SHA-256 |
+| 文件 / File（点击下载 / click to download） | 大小 / Size | SHA-256 |
 |---|---|---|
-| `LigSplat-Setup-0.2.0-win64.exe` | 226,503,792 B (216.0 MiB) | `8383234e648bf321316d284758dcd95aec95841fa1e72c576a87251e115f59eb` |
-| `LigSplat-0.2.0-source.zip` | 21,409,741 B (20.4 MiB) | `c1cb0df0e78f067f8c9f8ccdbf6ca84e5cfcb04d2474baef0aefd228cde7d82f` |
-| `SHA256SUMS-0.2.0.txt` | 280 B | — |
+| [`LigSplat-Setup-0.2.0-win64.exe`](https://github.com/Lig10215/LigSplat/releases/latest/download/LigSplat-Setup-0.2.0-win64.exe) | 226,503,792 B (216.0 MiB) | `8383234e648bf321316d284758dcd95aec95841fa1e72c576a87251e115f59eb` |
+| [`LigSplat-0.2.0-source.zip`](https://github.com/Lig10215/LigSplat/releases/latest/download/LigSplat-0.2.0-source.zip) | 21,409,741 B (20.4 MiB) | `c1cb0df0e78f067f8c9f8ccdbf6ca84e5cfcb04d2474baef0aefd228cde7d82f` |
+| [`SHA256SUMS-0.2.0.txt`](https://github.com/Lig10215/LigSplat/releases/latest/download/SHA256SUMS-0.2.0.txt) | 280 B | — |
 
 ---
 
