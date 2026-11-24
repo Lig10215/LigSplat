@@ -18,4 +18,4 @@ The Windows installer bundles the following components. Their license texts are 
 
 **Note / 说明**：FFmpeg 的 GPL 与 LGPL 文本同时随包提供，实际构建配置决定适用的许可组合；如需二次分发，请先自行核对 configure 参数与整体许可一致性。/ Both FFmpeg GPL and LGPL texts are provided; the applicable combination depends on the actual build configuration. Verify the configure flags and overall license compatibility before redistributing.
 
-The private report configuration (`report-config.private.json`) and the code-signing private key are **not** part of the corresponding-source archive.
+完整对应源码见 Release 附件 `LigSplat-0.2.0-source.zip`；安装包内的 `licenses/` 目录同时随附各组件许可文本。 / The complete corresponding source is provided as the Release asset `LigSplat-0.2.0-source.zip`; component license texts are also shipped in the installation directory under `licenses/`.
